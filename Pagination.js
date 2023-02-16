@@ -12,7 +12,7 @@ h1Ele.id = "title";
 //Creating paragraph
 const pELe = document.createElement("p");
 
-pELe.innerText = "Pagincating 100 data for easy readability";
+pELe.innerText = "Paginating 100 data for easy readability";
 
 pELe.id = "description";
 
